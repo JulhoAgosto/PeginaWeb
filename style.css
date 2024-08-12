@@ -13,7 +13,7 @@ header{
   font-family: "Zain", sans-serif;
 }
 
-section{
+section.entrada{
   font-family: "Oswald", sans-serif; 
   background-color: lightblue;
   margin: 20px;
@@ -27,4 +27,22 @@ section{
 
 .primeiro{
   margin-right: 20px;
+}
+
+.copia{
+  text-align: CENTER;
+}
+
+img {
+  height: 200px;
+}
+
+div#videos{
+ display: flex;
+ overflow-x: auto;
+ gap: 10px;
+}
+
+.ju{
+  text-align:CENTER;
 }
