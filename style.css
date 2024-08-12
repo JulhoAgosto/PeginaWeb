@@ -1,0 +1,30 @@
+body {
+  color:black;
+  background:rgb(0,87,194);
+  margin: 7px;
+}
+
+header{
+  font-size:80px;
+  color: darkblue;
+  border-bottom: solid 2px white;
+  text-align: CENTER;
+  padding: 20px;
+  font-family: "Zain", sans-serif;
+}
+
+section{
+  font-family: "Oswald", sans-serif; 
+  background-color: lightblue;
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+}
+
+.descricao{
+  font-size: 20px;
+}
+
+.primeiro{
+  margin-right: 20px;
+}
